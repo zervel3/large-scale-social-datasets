@@ -1,0 +1,5 @@
+twitter_2011.zip filter=lfs diff=lfs merge=lfs -text
+twitter_covid.zip filter=lfs diff=lfs merge=lfs -text
+weibo_covid.zip filter=lfs diff=lfs merge=lfs -text
+weibo_2012.zip.zip filter=lfs diff=lfs merge=lfs -text
+weibo_2012.zip filter=lfs diff=lfs merge=lfs -text
